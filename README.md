@@ -1,7 +1,3 @@
-# Project Name
-
-Brief description of your project.
-
 ## Getting Started
 
 ### Prerequisites
@@ -13,7 +9,7 @@ Make sure you have Node.js installed. You can download it from [Node.js](https:/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/shh26/PT-DP-FE.git)
 
 2. Navigate to the project directory:
 
