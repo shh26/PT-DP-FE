@@ -108,7 +108,7 @@ const ProjectsCard = ({ projects, onDelete }) => {
         </div>
         <p className="text-sm text-gray-100 mb-4">Category: {projects.type}</p>
         <div className="flex justify-between items-center mb-1">
-          <span className="text-sm text-gray-200">Current Phase: {currentPhase}</span>
+          <span className="text-sm text-gray-200">Delivery Date: {projects.actual_delivery_date}</span>
         </div>
       </div>
     </>

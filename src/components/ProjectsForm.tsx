@@ -540,6 +540,9 @@ const ProjectsForm: React.FC<ProjectsFormProps> = ({ formData, handleChange, han
         variant="outlined"
         label={`${option.first_name} ${option.last_name}`}
         {...getTagProps({ index })}
+        sx={{
+          color: 'white', 
+        }}
       />
     ));
   }}
