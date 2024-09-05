@@ -25,13 +25,14 @@ Make sure you have Node.js installed. You can download it from [Node.js](https:/
 
    ```bash
    npm install
-   
+
+### Running the Development Server
 4. To start the development server, run:
 
    ```bash
    npm run dev
    
-###Build for Production
+### Build for Production
 
 5. To create an optimized build for production, run:
 
